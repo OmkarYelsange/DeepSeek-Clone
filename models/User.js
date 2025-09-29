@@ -1,0 +1,18 @@
+import mongoose from "mongoose";
+import { type } from "os";
+
+const UserSchema = new mongoose.Schema(
+  {
+    _id: { type: String, required: true },
+    name: { type: String, required: true },
+    email: { type: String, required: true },
+    image: { type: String, required: false },
+  },
+  {
+    timestamps: true,
+  }
+);
+
+const User = mongoose.models.User || ("User", UserSchema);
+
+export default User;
