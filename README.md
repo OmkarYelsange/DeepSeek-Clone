@@ -123,3 +123,12 @@ Open a pull request
 Please maintain code style, add documentation, and follow existing patterns.
 
 
+## 📞 Contact
+
+👤 **Omkar Yelsange**  
+💼 **GitHub:** [OmkarYelsange](https://github.com/OmkarYelsange)  
+🌐 **Live Demo:** [DeepSeek Clone](https://deep-seek-clone-coral.vercel.app/)  
+📧 **Email:** omkaryelsange1010@gmail.com  
+🔗 **Project Repository:** [View )  
+💬 **LinkedIn:** [Omkar Yelsange](https://www.linkedin.com/in/omkaryelsange)
+
