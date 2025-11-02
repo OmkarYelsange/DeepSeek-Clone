@@ -114,15 +114,6 @@ User auth & personalized search
 Analytics / metrics
 Dark mode toggle (if not added)
 
-🤝 Contributing
-Contributions are welcome!
-Fork this repo
-Create a branch (feature/YourFeature)
-Make your changes & commit
-Open a pull request
-Please maintain code style, add documentation, and follow existing patterns.
-
-
 ## 📞 Contact
 
 👤 **Omkar Yelsange**  
