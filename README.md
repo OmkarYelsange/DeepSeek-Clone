@@ -82,10 +82,10 @@ npm run start
 🧰 Scripts & Commands
 
 ```
-npm run dev	-> Start dev server
-npm run build	-> Build for production
-npm run start	-> Start production server / preview
-npm run lint	 -> Run linting (if configured)
+npm run dev -> Start dev server
+npm run build -> Build for production
+npm run start -> Start production server / preview
+npm run lint -> Run linting (if configured)
 npm run test -> Run tests (if any)
 ```
 
