@@ -1,12 +1,6 @@
 <h1 align="center">🔍 DeepSeek Clone</h1>
 
 <p align="center">
-  <a href="https://deep-seek-clone-coral.vercel.app/">
-    <img src="https://api.vercel.com/v1/badges/your-vercel-badge-url/deploy-status" alt="Vercel Status">
-  </a>
-</p>
-
-<p align="center">
   <a href="https://deep-seek-clone-coral.vercel.app/"><b>🌐 Live Demo</b></a> •
   <a href="https://github.com/OmkarYelsange/DeepSeek-Clone"><b>📂 Repository</b></a>
 </p>
