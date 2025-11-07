@@ -102,9 +102,6 @@ If your project uses env vars (API keys, endpoints), create .env.local (or .env)
 NEXT_PUBLIC_API_URL=https://your-api.com
 NEXT_PUBLIC_SOME_KEY=your_key_here
 ```
-⚠️ Do not commit .env files with secrets.
-
-
 
 ## 📞 Contact
 
