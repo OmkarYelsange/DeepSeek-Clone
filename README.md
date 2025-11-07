@@ -104,15 +104,7 @@ NEXT_PUBLIC_SOME_KEY=your_key_here
 ```
 ⚠️ Do not commit .env files with secrets.
 
-🚧 Future Enhancements
 
-Integrate real AI backend / search API
-Autocomplete & suggestion improvements
-Pagination, filtering, sorting
-Caching & performance optimizations
-User auth & personalized search
-Analytics / metrics
-Dark mode toggle (if not added)
 
 ## 📞 Contact
 
